@@ -1,2 +1,1 @@
-# CollegeTask
-## Home Work 2 -  atef mansour
+A simple command-line application.
